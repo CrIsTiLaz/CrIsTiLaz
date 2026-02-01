@@ -1,4 +1,4 @@
-# Hi, I'm Cristian Lazea! 👋
+# Hi, I'm Cristian Lazea! 
 
 ### Full Stack Developer | Big Data Master's Student at West University Timisoara
 
