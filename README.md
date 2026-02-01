@@ -42,12 +42,6 @@ I am a dedicated and motivated software developer, always seeking opportunities 
 
 ---
 
-### 📈 GitHub Stats
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrIsTiLaz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrIsTiLaz&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me:
 
 * **Email:** cristilazea18@gmail.com
