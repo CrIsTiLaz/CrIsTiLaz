@@ -1,6 +1,6 @@
 # Hi, I'm Cristian Lazea! 
 
-### Full Stack Developer | Big Data Master's Student at West University Timisoara
+### Full Stack Developer
 
 I am a dedicated and motivated software developer, always seeking opportunities to learn and grow. I focus on building high-quality applications that excel in both functionality and user experience, with a strong passion for staying updated with industry trends.
 
